@@ -1,0 +1,7 @@
+Employee ID:34
+Employee Name     :tyu
+Father's Name     :jhj
+Employee Contact  :49970
+Email Information :gffyt65
+Employee position :6
+Employee Salary   :7879
